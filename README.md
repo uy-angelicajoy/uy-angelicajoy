@@ -1,5 +1,8 @@
  # Hi, I'm Angelica 👋<br>
- <br>👩‍🎓 Currently studying DIT program (Diploma in Information Technology) at Polytechnic University of the Philippines-Taguig Campus<br>👩‍💻 Right now I want to Master the coding language of Python <br>📌 My goal is to be a Web Developer or to be a System Analyst <br>🧠 I'm always open to learn new things to improve my skills
+ <br>👩‍🎓 Currently studying DIT program (Diploma in Information Technology) at Polytechnic University of the Philippines-Taguig Campus<br>
+ 👩‍💻 Right now I want to Master the coding language of Python <br>
+ 📌 My goal is to be a Web Developer or to be a System Analyst <br>
+ 🧠 I'm always open to learn new things to improve my skills
 
 
 ## 🌐 Socials:

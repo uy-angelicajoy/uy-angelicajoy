@@ -4,7 +4,7 @@
 📌 My goal is to be a Web Developer or to be a System Analyst <br>
 🧠 I'm always open to learn new things to improve my skills
 
-
+<div align="center">
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/angelicajoyuy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelicajoyuy) 
@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uy-angelicajoy&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=uy-angelicajoy&theme=blue-green&hide_border=false)<br/>
-
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uy-angelicajoy&theme=radical&no-frame=false&no-bg=true&margin-w=4)

@@ -5,6 +5,7 @@
 🧠 I'm always open to learn new things to improve my skills
 
 <div align="center">
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/angelicajoyuy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelicajoyuy) 

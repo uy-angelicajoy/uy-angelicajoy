@@ -22,13 +22,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=uy-angelicajoy&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=uy-angelicajoy&theme=blue-green&hide_border=false)<br/>
 </div>
-
-<div align="center">
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=uy-angelicajoy&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
-
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=uy-angelicajoy&icon=0&color=0)](https://visitcount.itsvg.in)

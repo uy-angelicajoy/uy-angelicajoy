@@ -1,6 +1,5 @@
  # Hi, I'm Angelica 👋<br>
 👩‍🎓 Currently studying DIT program (Diploma in Information Technology) at Polytechnic University of the Philippines-Taguig Campus<br>
-👩‍💻 Right now I want to Master the coding language of Python <br>
 📌 My goal is to be a Web Developer or to be a System Analyst <br>
 🧠 I'm always open to learn new things to improve my skills
 
@@ -24,13 +23,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=uy-angelicajoy&theme=blue-green&hide_border=false)<br/>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=uy-angelicajoy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 <div align="center">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uy-angelicajoy&limit=5&theme=blue-green&combine_all_yearly_contributions=true)

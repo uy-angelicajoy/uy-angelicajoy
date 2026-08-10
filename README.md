@@ -1,13 +1,11 @@
  # Hi, I'm Angelica 👋<br>
-👩‍🎓 Currently studying DIT program (Diploma in Information Technology) at Polytechnic University of the Philippines-Taguig Campus<br>
-📌 My goal is to be a Web Developer <br>
+👩‍🎓 Graduate of DIT program (Diploma in Information Technology) at Polytechnic University of the Philippines-Taguig Campus<br>
+📌 Currently a Developer at Safexpress Logistics Inc. <br>
 🧠 I'm always open to learn new things to improve my skills
 
 
  
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/angelicajoyuy) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelicajoyuy) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelicajoyuy16@gmail.com) 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/angelica-joy-uy-a789723a2)
 
@@ -48,9 +46,6 @@
 - The IMS is a web-based platform for NLCOM that automates relief goods tracking, and minimize waste
 
 <div align="center">
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=uy-angelicajoy&theme=blue-green&hide_border=false)<br/>
 
 </div>
 
